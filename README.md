@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 💙💙
 Meu nome é Pedro Oliveira de Jesus
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+estou estudando na Alura
+estou me desenvolvendo na linguagem JavaScript
+utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **N0Tzzzz/N0Tzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
